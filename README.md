@@ -2,7 +2,6 @@
 This is a Flutter application demonstrating user management using Firebase. It allows users to register, store their data in Firestore, and supports offline data storage using SharedPreferences.
 
 *Features
-- User registration (Name and Email)
 - Store user data in Firebase Firestore
 - Offline support using SharedPreferences
 - Sync local data to Firebase when internet is available
